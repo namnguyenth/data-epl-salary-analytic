@@ -16,13 +16,13 @@ The technique used for data collection is web scrapping and data is compiled in 
 
 ### Top 10 players with the highest salaries
     No  Player Name         Weekly Wage     Yearly Salary   Age         Position
-    1   Raheem Sterling     350000          18200000        28          AM RL   
-    2   Raphaël Varane      350000          18200000        30          D C   
-    3   Mohamed Salah       350000          18200000        31          AM RL, ST   
-    4   Kevin De Bruyne     340000          17680000        32          AM RLC   
-    5   Erling Haaland      40000           17680000        22          ST   
-    6   Christopher Nkunku  300000          15600000        25          AM RLC, F C   
-    7   Marcus Rashford     300000          15600000        25          AM L, ST   
-    8   Casemiro            300000          15600000        31          DM   
-    9   Jadon Sancho        275000          14300000        23          AM RLC   
-    10  Jack Grealish       270000          14040000        27          AM RLC  
+    1   Raheem Sterling     350,000          18,200,000        28          AM RL   
+    2   Raphaël Varane      350,000          18,200,000        30          D C   
+    3   Mohamed Salah       350,000          18,200,000        31          AM RL, ST   
+    4   Kevin De Bruyne     340,000          17,680,000        32          AM RLC   
+    5   Erling Haaland      340,000          17,680,000        22          ST   
+    6   Christopher Nkunku  300,000          15,600,000        25          AM RLC, F C   
+    7   Marcus Rashford     300,000          15,600,000        25          AM L, ST   
+    8   Casemiro            300,000          15,600,000        31          DM   
+    9   Jadon Sancho        275,000          14,300,000        23          AM RLC   
+    10  Jack Grealish       270,000          14,040,000        27          AM RLC  
