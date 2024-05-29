@@ -15,7 +15,7 @@ The dataset used has been compiled from various sources by web scrapping.
 The technique used for data collection is web scrapping and data is compiled in a CSV file. The CSV file consist of 8 column and has data of all 640 player in EPL season 2023/2024
 
 ### Top 10 players with the highest salaries
-    No  Player Name         Weekly Wage     Yearly Salary   Age         Position
+    No  Player Name         Weekly Wage(£)  Yearly Salary(£)   Age         Position
     1   Raheem Sterling     350,000          18,200,000        28          AM RL   
     2   Raphaël Varane      350,000          18,200,000        30          D C   
     3   Mohamed Salah       350,000          18,200,000        31          AM RL, ST   
